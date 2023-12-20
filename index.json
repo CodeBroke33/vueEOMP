@@ -1,0 +1,163 @@
+{
+    "jobTitle": [
+        {
+            "title": "a software developer",
+            "color": "rgb(57, 153, 0)"
+        },
+        {
+            "title": "a youTuber",
+            "color": "rgb(157, 100, 0)"
+        },
+        {
+            "title": "a founder and CEO at JT Devs",
+            "color": "rgb(153, 76, 150)"
+        },
+        {
+            "title": "an IT Lecturer",
+            "color": "rgb(0, 172, 230)"
+        }    
+    ],
+    "about": [
+        "I graduated at Tshwane University of Technology in 2014 as a Software Developer and I've gained knowledge in data science, database, programming, data analysis, project management and many more.",
+        "I am currently employed as a coding lecturer at Life Choices and also run my own business, JT Devs. As a part-time YouTuber, I teach people different programming languages."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2020,
+            "description": "I got my certificates on Data science",
+            "place": "Data Camp",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "description": "I got my certificates on Advanced to Python",
+            "place": "Data Camp",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+        },
+        {
+            "id": 3,
+            "year": 2020,
+            "description": "I got my certificates on Intro to Python",
+            "place": "Data Camp",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
+        },
+        {
+            "id": 4,
+            "year": 2015,
+            "description": "I got my certificate on Intro to Android Developer",
+            "place": "Study Jams",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/102891ip_JFl_NEwW942zbvbkG7SXHx0G/view"
+        },
+        {
+            "id": 5,
+            "year": 2014,
+            "description": "I got my diploma on Software Engineering",
+            "place": "Tshwane University of Technology",
+            "type": "Diploma",
+            "certificate": "https://drive.google.com/file/d/10JQilglK4RoVToj_h739oYKUwH5vqTDp/view"
+        },
+        {
+            "id": 6,
+            "year": 2005,
+            "description": "Completed my course on PC Engineering",
+            "place": "Havatech",
+            "type": "Certificate",
+            "certificate": "https://drive.google.com/file/d/10MNxwM9wsyLl3pGVv9dBblD57-gSnjLR/view"
+        },
+        {
+            "id": 7,
+            "year": 2000,
+            "description": "Grade 12",
+            "place": "",
+            "type": "Certificate",
+            "certificate": ""
+        }
+    ],
+    "skills": [
+        {
+            "title": "Web Development",
+            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+        },
+        {
+            "title": "Database",
+            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+        },
+        {
+            "title": "API",
+            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+        },
+        {
+            "title": "Programming",
+            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Rachel",
+            "surname": "Mukanya",
+            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
+            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+        },
+        {
+            "name": "Ruth",
+            "surname": "Mukanya",
+            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
+            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+        },
+        {
+            "name": "Lazola",
+            "surname": "Makubalo",
+            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Dr. Godwin P",
+            "surname": "Dzvapatsva",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "To-do List",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
+            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
+            "netlify": "https://joel-todo-list.netlify.app/"
+        },
+        {
+            "name": "Calculator",
+            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
+            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
+            "netlify": "https://regexpcalculator.netlify.app/"
+        },
+        {
+            "name": "Message believers Circle",
+            "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
+            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
+            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
+            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+        },
+        {
+            "name": "JT Laptop",
+            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
+            "netlify": "https://jtlaptops.netlify.app/"
+        },
+        {
+            "name": "JS Portfolio",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
+            "netlify": "https://joeljsportfolio.netlify.app/"
+        }
+    ]
+}
