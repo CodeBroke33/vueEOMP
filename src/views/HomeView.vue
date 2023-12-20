@@ -8,7 +8,9 @@
 export default {
   name: 'HomeView',
   components: {
-    
+    jobTitle() {
+      this.$store.dispatch
+    }
   }
 }
 </script>
